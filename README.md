@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Gabry (aka GabryB-06)
 
-<!--
-**GabryB-06/GabryB-06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Italian guy who loves pizza and developing software 🍕 😄
 
-Here are some ideas to get you started:
+## 🚀 Programming Languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here are some of the programming languages I work with:
+
+- Python (my favorite)
+- Bash Scripting
+- Bat Scripting
+- Wiring (Arduino programming language)
+- C
+- C++
+- Java
+- JavaScript
+- PHP
+
+## 🌱 More About Me
+
+- 🎓 A student passionate about technology.
+- 🎮 In my free time, I enjoy developing my own utilities to fit my needs, playing chess, listeing to music and experimenting with new coding projects.
+- 🚩 I sometimes play CTF (a kind of cybersecurity competitions).
+
+## 📈 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=GabryB-06&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GabryB-06&layout=compact&theme=dark)
