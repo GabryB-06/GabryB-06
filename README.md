@@ -19,5 +19,5 @@ Here are some of the programming languages I work with:
 ## 🌱 More About Me
 
 - 🎓 A student passionate about technology.
-- 🎮 In my free time, I enjoy developing my own utilities to fit my needs, playing chess, listeing to music and experimenting with new coding projects.
+- 🎮 In my free time, I enjoy developing my own utilities to fit my needs, playing chess, listening to music and experimenting with new coding projects.
 - 🚩 I sometimes play CTF (a type of cybersecurity competitions).
