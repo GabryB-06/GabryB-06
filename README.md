@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Gabry (aka GabryB-06)
+# 👋 Hi, I'm Gabry (aka GabryB06)
 
 I'm an Italian guy who loves pizza and developing software 🍕 😄
 
